@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "AppCentrix SmartICT"
-baseURL = "https://appcentrix.co.za/"
+baseURL = "https://joshuaread/smartict.github.io"
 canonifyURLs = true
 theme = "hugo-book-master"
 
