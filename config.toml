@@ -1,0 +1,9 @@
+languageCode = "en-us"
+title = "AppCentrix SmartICT"
+baseURL = "https://appcentrix.co.za/"
+canonifyURLs = true
+theme = "hugo-book-master"
+
+[params]
+  description = "Documentation for the management and daily use of SmartICT"
+  codePenUser = "docread"
